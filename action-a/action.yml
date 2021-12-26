@@ -1,6 +1,6 @@
 name: "Welcome to actions"
 description: "greetings world"
-author: "Peter Nugent"
+author: "MY_NAME"
 
 inputs:
 MY_NAME
