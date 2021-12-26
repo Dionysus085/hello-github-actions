@@ -1,7 +1,7 @@
 name: Peters workflow the the my HELLO WORLD file
 on: push
 jobs:
- Build:
+ build:
   name: Hello world action
   runs-on: ubuntu-latest
   steps:
