@@ -4,7 +4,7 @@ author: "MY_NAME"
 
 inputs:
 MY_NAME
-Description: "welcome 1"
+description: "welcome 1"
 required: true
 default: "World"
 
