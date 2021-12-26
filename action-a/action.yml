@@ -1,0 +1,17 @@
+name: "Welcome to actions"
+description: "greetings world"
+author: "Peter Nugent"
+
+inputs:
+MY_NAME
+Description: "welcome 1"
+required: true
+default: "World"
+
+runs:
+ using: "docker"
+ image: "Dockerfile"
+ 
+branding:
+icon: "mic"
+color:"purple"
